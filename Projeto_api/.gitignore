@@ -1,0 +1,29 @@
+# Arquivos gerados pelo Maven
+target/
+
+# Arquivos de compilação Java
+*.class
+
+# Arquivos de configuração do Maven
+pom.xml.tag
+pom.xml.releaseBackup
+release.properties
+
+# Arquivos de configuração específicos de IDEs
+.classpath
+.project
+.settings/
+.idea/
+
+# Arquivos de logs e relatórios
+*.log
+*.html
+*.xml
+*.json
+
+# Pasta de relatórios
+surefire-reports/
+cucumber-reports/
+
+# Arquivos de configuração específicos do ambiente
+config.properties
